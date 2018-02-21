@@ -1,0 +1,28 @@
+1) credit cards home
+2) refer frnd
+3) card finder
+
+
+4) Browse Card categories-
+
+1) faetured card (with max profit to the user or according top the num of cards distributed so far)
+2) all cards (personal cards , business cards) 25
+3) travel credit cards (chase travel, airline travel, business travel) 18
+4) cash back credit cards ( chase cash back, partner cash back, business cash back) 5
+5) balance transfer credit cards--- helping in saving interest by consolidating higher interest rate(chase balance transfer,business balance transfer) 4
+6) small business ( chase , partner) 5
+7) reward credit cards (chase, partner, business) 24
+8) airline cc 11
+9) hotel cc 9
+10) no annual fee cc 8
+11) no foreign transaction fee cc 16
+12) 0% intro APR credit cards 4
+13) visa credit card 24
+14) master cc 1
+15) wholesale club visa card acceptance cc 17
+16 ) EMV credit cards eith chip 25
+
+
+
+5) compare cards
+6) rate & review cards

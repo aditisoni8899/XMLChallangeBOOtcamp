@@ -1,0 +1,18 @@
+
+Task #1- 1) As customer I want to see all my purchased credit cards so that I will be able to filter the new cards and benefits.
+            
+             Task #2-   a) As Customer I want to see my purchased cards according to their types ( chase card, partner, personal business etc) so that it will be easy to use when needed.
+				 
+				Task #3-  1) Customer should be logged in.
+					  2) How many cards customer own / purchased.
+					  3) Count of cards of each category.
+					  4) We need Database to interact with. Applying CRUD operations.
+
+                        b) As Customer I want to see my purchased cards according to their providers (unitedMilage plus etc) so that I can select cards card easily.
+			c) As Regular customer I want to get special rewards so that I would continue to be regular customer.
+			d) As foreign Customer I should be getting some country specific reward so that I use the service over my country services. 
+
+
+         2) As Referred friend I want to see suggestions according to the my friend's purchased credit cards so that it will be easy for me to find one according to my prefrence.
+
+         3) As Guest I want to see company specific cards (Marriott, british airways etc) so that easy to purchase if I already decided. 
